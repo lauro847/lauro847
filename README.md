@@ -83,3 +83,6 @@ I also create content and share knowledge on **software development, SaaS, and t
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lauro847/lauro847/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
